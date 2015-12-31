@@ -10,3 +10,7 @@ Read the [JavaDoc](http://sgsshankar.github.io/shapeshiftio-java/) on API usage.
 ## Issues and Pull request
 
 Bug Fixed and enhancements are welcome. Please raise [Issues](https://github.com/sgsshankar/shapeshiftio-java/issues) and give a pull request for merging
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/sgsshankar/shapeshiftio-java/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
